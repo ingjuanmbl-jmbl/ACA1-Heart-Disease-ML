@@ -1,0 +1,39 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Python: bytecode y cachés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit: secretos locales
+.streamlit/secrets.toml
+
+# Configuración local del editor
+.vscode/
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Registros y archivos temporales
+*.log
+*.tmp
+
+# Datos de trabajo: evita subir datasets accidentalmente
+# Si decides versionar un archivo de datos explícitamente, revisa estas reglas.
+data/
+datos/
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# No se ignora *.joblib: el modelo de la aplicación sí debe versionarse.
