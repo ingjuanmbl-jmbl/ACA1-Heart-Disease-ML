@@ -94,6 +94,13 @@ Estas métricas describen el experimento y no constituyen evidencia de validez c
 
 UCI Machine Learning Repository — Heart Disease: <https://archive.ics.uci.edu/dataset/45/heart+disease>
 
+## Aplicación desplegada
+
+Accede a la aplicación interactiva:
+
+https://aca1-heart-disease-ml-j4wqqgj9aqfucblg34avy6.streamlit.app/
+
+
 ## Entregables académicos
 
 Este repositorio documenta principalmente la aplicación interactiva y el modelo utilizado. Verifica también las indicaciones del curso para entregar el notebook reproducible, el póster/infografía en PDF y el video de sustentación de 3 a 5 minutos, si no se incluyen aquí.
